@@ -10,5 +10,6 @@ int main()
 	cout<<"¬ведите два числа\n";
 	cin>>a>>b;
 	cout<<a+b<<"\n";
+	cout<<a-b<<"\n";
 	return 0;
 }
