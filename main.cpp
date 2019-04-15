@@ -9,5 +9,6 @@ int main()
 	float a, b;
 	cout<<"¬ведите два числа\n";
 	cin>>a>>b;
+	cout<<a+b<<"\n";
 	return 0;
 }
