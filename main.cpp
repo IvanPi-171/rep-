@@ -3,6 +3,7 @@
 #include<math.h>
 #include<iostream>
 using namespace std;
+//Программа является учебной
 int main()
 {
 	setlocale(LC_ALL, "Russian");
