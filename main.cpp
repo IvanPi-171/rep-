@@ -1,4 +1,4 @@
-#include<stdio.h>
+ï»¿#include<stdio.h>
 #include<locale.h>
 #include<math.h>
 #include<iostream>
@@ -7,7 +7,7 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 	float a, b;
-	cout<<"Ââåäèòå äâà ÷èñëà\n";
+	cout<<"Â¬Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð´Ð²Ð° Ñ‡Ð¸ÑÐ»Ð°\n";
 	cin>>a>>b;
 	cout<<a+b<<"\n";
 	return 0;
