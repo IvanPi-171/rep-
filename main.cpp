@@ -3,7 +3,7 @@
 #include<math.h>
 #include<iostream>
 using namespace std;
-//Программа является учебной
+//пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 int main()
 {
 	setlocale(LC_ALL, "Russian");
@@ -12,6 +12,5 @@ int main()
 	cin>>a>>b;
 	cout<<a+b<<"\n";
 	cout<<a-b<<"\n";
-	cout<<a*b<<"\n";
-	return 0;
+	cout<<a/b<<"\n";	cout<<a*b<<"\n";	return 0;
 }
